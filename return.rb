@@ -1,8 +1,10 @@
 def compare (a, b)
-  a > bindingendate
-  a = 1
-  b= 2
+  a > b
+end
 
-  result = compare (a, b)
+a = 1
+b = 2
 
-  puts "O resultado da comáração é '#{result}' "
+result = compare(a, b)
+
+puts "O resultado da comparação é '#{result}' "
