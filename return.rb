@@ -10,7 +10,7 @@
 #puts "O resultado da comparação é '#{result}' "
 
 def retorno
-  return 12
+  return 12 #quando se tem um return o programa para aqui
   puts "Hello"
 end
 
