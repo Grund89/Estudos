@@ -7,3 +7,6 @@ class Computer
     'shutdown the computer'
   end
 end
+
+computer = Cpmputer.new
+puts computer.shutdown
