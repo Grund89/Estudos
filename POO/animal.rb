@@ -18,3 +18,4 @@ end
 cachorro = Cachorro.new
 cachorro.pular
 cachorro.dormir
+cachorro.latir
