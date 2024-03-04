@@ -8,5 +8,5 @@ class Computer
   end
 end
 
-computer = Cpmputer.new
+computer = Computer.new
 puts computer.shutdown
