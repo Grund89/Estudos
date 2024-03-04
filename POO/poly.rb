@@ -17,3 +17,11 @@ class Caneta < Instrumento
   def escrever
     puts 'Escrevendo à Caneta'
   end
+
+  teclado = Teclado.new
+  lapis = Lapis.new
+  caneta = Caneta.new
+
+  lapis.escrever
+  caneta.escrever
+  teclado.escrever
