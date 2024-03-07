@@ -1,4 +1,4 @@
-class animal
+class Animal
   def pular
     puts 'Toin! Tóin! Bóin! Póim!'
   end
