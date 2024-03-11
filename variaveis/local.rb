@@ -3,3 +3,5 @@ def foo
   local = 'Local é acessada apenas desntro deste metodo'
   print local
 end
+
+foo
