@@ -1,3 +1,4 @@
+=begin
 class Dog
   def name
     @name
@@ -11,3 +12,4 @@ end
 dog = Dog.new
 dog.name = 'Marlon'
 puts dog.name
+=end
