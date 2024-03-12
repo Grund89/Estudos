@@ -12,4 +12,4 @@ class Person
 end
 
 person = Person.new('João', 12)
-peron.check
+person.check
